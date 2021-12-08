@@ -1,1 +1,3 @@
-I have attempted all 4 ports for 100% but I have not completed any extra credit.
+A simple game where you click to launch green triangles to save your base
+
+![alt text](https://github.com/pipewriter/missile-defense/blob/master/miss.png)
